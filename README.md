@@ -11,7 +11,11 @@ EN󠁧󠁢󠁥󠁮󠁧󠁿:passionate developer who loves to learn and especiall
 
 * 🌍  I'm based in 🇨🇮 Côte d'ivoire
 * ✉️  You can contact me at [lordkkjmix@gmail.com](mailto:lordkkjmix@gmail.com)
-* 🚀  I'm currently working on [BlouContact](http://digitapp.ci/bloucontact/)
+* 🚀  I'm currently working on:
+[Djamo](https://www.djamo.ci/ci/)
+[ColibaAfrica](https://colibaafrica.com/)
+[BlouContact](http://digitapp.ci/bloucontact/)
+
 
 <a href="https://www.twitter.com/lordkkjmix" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/lordkkjmix?logo=twitter&style=for-the-badge&color=f97316&labelColor=1c1917"
