@@ -3,7 +3,7 @@ Hi 👋 Mon nom est KOUAKOU KOFFI JOSUE alias LordKkJMIX
 Hi 👋 My name is KOUAKOU KOFFI JOSUE aka LordKkJMIX
 ====================================
 
-SENIOR FULLSTACK DEVELOPPER
+SENIOR FULLSTACK DEVELOPPER AND PARSE-SERVER EVANGELIST
 ---------------------------
 
 FR: développeur passionné qui adore apprendre et surtout partager, après plusieurs années d'expérience dans le domaine, je pense qu'il est important pour nous de faire un maximum de projet communautaire surtout en Afrique. 
