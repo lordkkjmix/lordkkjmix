@@ -7,6 +7,7 @@ SENIOR FULLSTACK DEVELOPPER AND PARSE-SERVER EVANGELIST
 ---------------------------
 
 FR: développeur passionné qui adore apprendre et surtout partager, après plusieurs années d'expérience dans le domaine, je pense qu'il est important pour nous de faire un maximum de projet communautaire surtout en Afrique. 
+
 EN󠁧󠁢󠁥󠁮󠁧󠁿:passionate developer who loves to learn and especially share, after several years of experience in the field, I think it is important for us to make a maximum of community project especially in Africa.
 
 * 🌍  I'm based in 🇨🇮 Côte d'ivoire
